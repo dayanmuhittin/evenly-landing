@@ -27,5 +27,6 @@
 # SIK SORULAN SORULAR
 - Evenly hakkında en çok merak edilen sorular.
 # FOOTER
-- [ EVENLY LOGO ]PLATFORMYASALModern ve akıllı etkinlik yönetimi.Ana Sayfa 
-- -Gizlilik Politikasıinfo@evenly.comAvantajlarKullanım Şartları+90 555 000 00 00ÖzelliklerSSSDemo Talep Et
+--- [ EVENLY LOGO ]PLATFORMYASALModern ve akıllı etkinlik yönetimi.Ana Sayfa 
+--- -Gizlilik Politikasıinfo@evenly.comAvantajlarKullanım Şartları+90 555 000 00 00ÖzelliklerSSSDemo Talep Et
+--- aaaaaaaaa
