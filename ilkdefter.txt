@@ -1,1 +1,3 @@
 git kursuna hoş gelidiniz en kısa sürede öğrenmek üzere
+
+gitignore dosyası oluşturuldu.
