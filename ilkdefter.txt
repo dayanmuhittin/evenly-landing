@@ -1,3 +1,7 @@
 git kursuna hoş gelidiniz en kısa sürede öğrenmek üzere
 
 gitignore dosyası oluşturuldu.
+
+kursta şu anda conflict kısmına değiniyoruz
+
+conflict : iki farklı dalda aynı dosya üzerinde aynı satırlarda yapılan değişikliklerden dolayı oluşur.
