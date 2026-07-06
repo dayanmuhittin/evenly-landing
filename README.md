@@ -1,6 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kjhefkjegw
 =======
+=======
+!!!!!!!! UPDATED SECOND TİMEE!!!!!!1
+!!!!!!!1Updated README documentation for team collaboration!!!!!!
+
+
+>>>>>>> 8cbbac2f7f2deb077f2b6eb1f152cf86f24ea6eb
 # Benim İlk Projem
 
 Şu an Git ve GitHub kursundan ilerlemeye çalışıyorum. Bu repo benim deneme alanım.
@@ -33,4 +40,7 @@ kjhefkjegw
 --- [ EVENLY LOGO ]PLATFORMYASALModern ve akıllı etkinlik yönetimi.Ana Sayfa 
 --- -Gizlilik Politikasıinfo@evenly.comAvantajlarKullanım Şartları+90 555 000 00 00ÖzelliklerSSSDemo Talep Et
 --- aaaaaaaaa
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 8cbbac2f7f2deb077f2b6eb1f152cf86f24ea6eb
